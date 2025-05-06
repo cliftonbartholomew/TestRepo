@@ -14,5 +14,7 @@ public class MYPAT {
         System.out.println("Hello World!");
         
         System.out.println("Second line");
+        
+        System.out.println("Third line");
     }
 }
